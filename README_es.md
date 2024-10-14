@@ -30,8 +30,6 @@ This is a dummy description of this app features
 ## Documentaciones y recursos
 
 - Sitio web oficial: <https://commet.chat/>
-- Documentación usuario oficial: <https://yunohost.org/apps>
-- Documentación administrador oficial: <https://yunohost.org/packaging_apps>
 - Repositorio del código fuente oficial de la aplicación : <https://github.com/commetchat/commet>
 - Catálogo YunoHost: <https://apps.yunohost.org/app/commet>
 - Reportar un error: <https://github.com/YunoHost-Apps/commet_ynh/issues>

@@ -30,8 +30,6 @@ This is a dummy description of this app features
 ## Dokumentasi dan sumber daya
 
 - Website aplikasi resmi: <https://commet.chat/>
-- Dokumentasi pengguna resmi: <https://yunohost.org/apps>
-- Dokumentasi admin resmi: <https://yunohost.org/packaging_apps>
 - Depot kode aplikasi hulu: <https://github.com/commetchat/commet>
 - Gudang YunoHost: <https://apps.yunohost.org/app/commet>
 - Laporkan bug: <https://github.com/YunoHost-Apps/commet_ynh/issues>

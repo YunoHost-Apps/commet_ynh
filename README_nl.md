@@ -30,8 +30,6 @@ This is a dummy description of this app features
 ## Documentatie en bronnen
 
 - Officiele website van de app: <https://commet.chat/>
-- Officiele gebruikersdocumentatie: <https://yunohost.org/apps>
-- Officiele beheerdersdocumentatie: <https://yunohost.org/packaging_apps>
 - Upstream app codedepot: <https://github.com/commetchat/commet>
 - YunoHost-store: <https://apps.yunohost.org/app/commet>
 - Meld een bug: <https://github.com/YunoHost-Apps/commet_ynh/issues>
