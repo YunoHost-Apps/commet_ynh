@@ -41,8 +41,6 @@ Commet est un client pour Matrix qui vise à fournir une expérience riche en fo
 ## Documentations et ressources
 
 - Site officiel de l’app : <https://commet.chat/>
-- Documentation officielle utilisateur : <https://yunohost.org/apps>
-- Documentation officielle de l’admin : <https://yunohost.org/packaging_apps>
 - Dépôt de code officiel de l’app : <https://github.com/commetchat/commet>
 - YunoHost Store : <https://apps.yunohost.org/app/commet>
 - Signaler un bug : <https://github.com/YunoHost-Apps/commet_ynh/issues>

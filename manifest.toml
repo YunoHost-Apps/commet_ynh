@@ -15,8 +15,6 @@ maintainers = ["eric_G"]
 license = " AGPL-3.0"
 website = "https://commet.chat/"
 demo = "https://app.commet.chat/"
-admindoc = "https://yunohost.org/packaging_apps"
-userdoc = "https://yunohost.org/apps"
 code = "https://github.com/commetchat/commet"
 
 [integration]
@@ -53,7 +51,7 @@ ram.runtime = "50M"
     url = "https://github.com/commetchat/commet/releases/download/v0.2.1/commet-web.tar.gz"
     sha256 = "965f24175576de184278ec47b85583f97338c6f3a3fcf6ee67e1d8db00e87442"
 
-    # autoupdate.strategy = "latest_github_tag"
+    autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
 

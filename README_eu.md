@@ -16,7 +16,18 @@ EZ editatu eskuz.
 
 ## Aurreikuspena
 
-This is a dummy description of this app features
+Commet is a client for Matrix that aims to provide a feature-rich experience while maintaining a simple interface. The goal is to create a secure and privacy-friendly app without compromising the features you expect from a modern chat client.
+
+### Features
+
+- End-to-end encryption
+- Custom emoji + stickers
+- GIF search
+- Multiple accounts
+- Spaces
+- Emoji verification and cross-signature
+- Push notifications
+- URL preview
 
 
 **Paketatutako bertsioa:** 0.2.1~ynh1
@@ -30,8 +41,6 @@ This is a dummy description of this app features
 ## Dokumentazioa eta baliabideak
 
 - Aplikazioaren webgune ofiziala: <https://commet.chat/>
-- Erabiltzaileen dokumentazio ofiziala: <https://yunohost.org/apps>
-- Administratzaileen dokumentazio ofiziala: <https://yunohost.org/packaging_apps>
 - Jatorrizko aplikazioaren kode-gordailua: <https://github.com/commetchat/commet>
 - YunoHost Denda: <https://apps.yunohost.org/app/commet>
 - Eman errore baten berri: <https://github.com/YunoHost-Apps/commet_ynh/issues>

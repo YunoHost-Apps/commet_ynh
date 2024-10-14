@@ -16,7 +16,18 @@ Ini TIDAK boleh diedit dengan tangan.
 
 ## Ringkasan
 
-This is a dummy description of this app features
+Commet is a client for Matrix that aims to provide a feature-rich experience while maintaining a simple interface. The goal is to create a secure and privacy-friendly app without compromising the features you expect from a modern chat client.
+
+### Features
+
+- End-to-end encryption
+- Custom emoji + stickers
+- GIF search
+- Multiple accounts
+- Spaces
+- Emoji verification and cross-signature
+- Push notifications
+- URL preview
 
 
 **Versi terkirim:** 0.2.1~ynh1
@@ -30,8 +41,6 @@ This is a dummy description of this app features
 ## Dokumentasi dan sumber daya
 
 - Website aplikasi resmi: <https://commet.chat/>
-- Dokumentasi pengguna resmi: <https://yunohost.org/apps>
-- Dokumentasi admin resmi: <https://yunohost.org/packaging_apps>
 - Depot kode aplikasi hulu: <https://github.com/commetchat/commet>
 - Gudang YunoHost: <https://apps.yunohost.org/app/commet>
 - Laporkan bug: <https://github.com/YunoHost-Apps/commet_ynh/issues>
