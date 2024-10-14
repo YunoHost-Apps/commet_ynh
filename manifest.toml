@@ -1,0 +1,65 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
+
+packaging_format = 2
+
+id = "commet"
+name = "Commet"
+description.en = "Web client for Matrix"
+description.fr = "Client web pour Matrix"
+
+version = "0.2.1~ynh1"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = " AGPL-3.0"
+website = "https://commet.chat/"
+demo = "https://app.commet.chat/"
+admindoc = "https://yunohost.org/packaging_apps"
+userdoc = "https://yunohost.org/apps"
+code = "https://github.com/commetchat/commet"
+
+[integration]
+yunohost = ">= 11.2.30"
+helpers_version = "2.1"
+architectures = "all"
+multi_instance = true
+
+ldap = false
+
+sso = false
+
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+
+    [resources.sources]
+
+    [install.path]
+    type = "path"
+    default = "/commet"
+
+    [resources.sources.main]
+    url = "https://github.com/commetchat/commet/releases/download/v0.2.1/commet-web.tar.gz"
+    sha256 = "965f24175576de184278ec47b85583f97338c6f3a3fcf6ee67e1d8db00e87442"
+
+    # autoupdate.strategy = "latest_github_tag"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.ports]
