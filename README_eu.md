@@ -30,7 +30,7 @@ Commet is a client for Matrix that aims to provide a feature-rich experience whi
 - URL preview
 
 
-**Paketatutako bertsioa:** 0.2.1~ynh1
+**Paketatutako bertsioa:** 0.3.0~ynh1
 
 **Demoa:** <https://app.commet.chat/>
 

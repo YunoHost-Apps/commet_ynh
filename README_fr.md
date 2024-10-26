@@ -30,7 +30,7 @@ Commet est un client pour Matrix qui vise à fournir une expérience riche en fo
 - Aperçu de l'URL
 
 
-**Version incluse :** 0.2.1~ynh1
+**Version incluse :** 0.3.0~ynh1
 
 **Démo :** <https://app.commet.chat/>
 
