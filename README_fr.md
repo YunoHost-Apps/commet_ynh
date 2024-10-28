@@ -20,7 +20,7 @@ Commet est un client pour Matrix qui vise à fournir une expérience riche en fo
 
 ### Fonctionnalités
 
-- Cryptage de bout en bout
+- Chiffrement de bout en bout
 - Emoji personnalisé + autocollants
 - Recherche GIF
 - Comptes multiples
