@@ -7,7 +7,7 @@ name = "Commet"
 description.en = "Web client for Matrix"
 description.fr = "Client web pour Matrix"
 
-version = "0.2.1~ynh1"
+version = "0.2.1~ynh2"
 
 maintainers = ["eric_G"]
 
