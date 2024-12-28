@@ -7,7 +7,7 @@ name = "Commet"
 description.en = "Web client for Matrix"
 description.fr = "Client web pour Matrix"
 
-version = "0.2.1~ynh1"
+version = "0.3.0~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -48,10 +48,11 @@ ram.runtime = "50M"
     default = "/commet"
 
     [resources.sources.main]
-    url = "https://github.com/commetchat/commet/releases/download/v0.2.1/commet-web.tar.gz"
-    sha256 = "965f24175576de184278ec47b85583f97338c6f3a3fcf6ee67e1d8db00e87442"
+    url = "https://github.com/commetchat/commet/releases/download/v0.3.0/commet-web.tar.gz"
+    sha256 = "6202e6b3c71f23bd033c39fc9ab276fbc8d2ab1abd984d4a5a98d75cb6b09336"
 
-    autoupdate.strategy = "latest_github_tag"
+    autoupdate.strategy = "latest_github_release"
+    autoupdate.asset = "commet-web\\.tar\\.gz"
 
     [resources.system_user]
 

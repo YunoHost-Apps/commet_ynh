@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # Commet for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/commet.svg)](https://ci-apps.yunohost.org/ci/apps/commet/) ![Working status](https://ci-apps.yunohost.org/ci/badges/commet.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/commet.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/commet)](https://ci-apps.yunohost.org/ci/apps/commet/)
+![Working status](https://apps.yunohost.org/badge/state/commet)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/commet)
 
 [![Install Commet with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=commet)
 
@@ -30,7 +32,7 @@ Commet is a client for Matrix that aims to provide a feature-rich experience whi
 - URL preview
 
 
-**Shipped version:** 0.2.1~ynh1
+**Shipped version:** 0.3.0~ynh1
 
 **Demo:** <https://app.commet.chat/>
 
