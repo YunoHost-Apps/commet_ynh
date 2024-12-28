@@ -5,7 +5,9 @@
 
 # Commet для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/commet.svg)](https://ci-apps.yunohost.org/ci/apps/commet/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/commet.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/commet.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/commet)](https://ci-apps.yunohost.org/ci/apps/commet/)
+![Состояние работы](https://apps.yunohost.org/badge/state/commet)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/commet)
 
 [![Установите Commet с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=commet)
 

@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # Commet pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/commet.svg)](https://ci-apps.yunohost.org/ci/apps/commet/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/commet.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/commet.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/commet)](https://ci-apps.yunohost.org/ci/apps/commet/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/commet)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/commet)
 
 [![Installer Commet avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=commet)
 

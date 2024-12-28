@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Commet voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/commet.svg)](https://ci-apps.yunohost.org/ci/apps/commet/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/commet.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/commet.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/commet)](https://ci-apps.yunohost.org/ci/apps/commet/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/commet)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/commet)
 
 [![Commet met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=commet)
 

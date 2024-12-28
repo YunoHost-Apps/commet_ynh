@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Commet YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/commet.svg)](https://ci-apps.yunohost.org/ci/apps/commet/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/commet.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/commet.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/commet)](https://ci-apps.yunohost.org/ci/apps/commet/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/commet)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/commet)
 
 [![Instalatu Commet YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=commet)
 

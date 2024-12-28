@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Commet
 
-[![集成程度](https://dash.yunohost.org/integration/commet.svg)](https://ci-apps.yunohost.org/ci/apps/commet/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/commet.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/commet.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/commet)](https://ci-apps.yunohost.org/ci/apps/commet/)
+![工作状态](https://apps.yunohost.org/badge/state/commet)
+![维护状态](https://apps.yunohost.org/badge/maintained/commet)
 
 [![使用 YunoHost 安装 Commet](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=commet)
 
