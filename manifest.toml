@@ -48,10 +48,11 @@ ram.runtime = "50M"
     default = "/commet"
 
     [resources.sources.main]
-    url = "https://github.com/commetchat/commet/archive/refs/tags/v0.3.0.tar.gz"
-    sha256 = "cbc5cc89ebc612c6f2cbdcc38dafb86ef038d0e6f6c76232a8e9469e2772207f"
+    url = "https://github.com/commetchat/commet/releases/download/v0.3.0/commet-web.tar.gz"
+    sha256 = "6202e6b3c71f23bd033c39fc9ab276fbc8d2ab1abd984d4a5a98d75cb6b09336"
 
-    autoupdate.strategy = "latest_github_tag"
+    autoupdate.strategy = "latest_github_release"
+    autoupdate.asset = "commet-web\\.tar\\.gz"
 
     [resources.system_user]
 
