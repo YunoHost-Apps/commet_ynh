@@ -35,6 +35,10 @@ ram.runtime = "50M"
     [install.domain]
     type = "domain"
 
+    [install.path]
+    type = "path"
+    default = "/commet"
+
     [install.init_main_permission]
     type = "group"
     default = "visitors"
@@ -42,10 +46,6 @@ ram.runtime = "50M"
 [resources]
 
     [resources.sources]
-
-    [install.path]
-    type = "path"
-    default = "/commet"
 
     [resources.sources.main]
     url = "https://github.com/commetchat/commet/releases/download/v0.3.1/commet-web.tar.gz"
