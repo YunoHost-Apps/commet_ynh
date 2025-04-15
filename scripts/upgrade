@@ -1,19 +1,29 @@
 #!/bin/bash
 
+#=================================================
+# IMPORT GENERIC HELPERS
+#=================================================
+
 source _common.sh
 source /usr/share/yunohost/helpers
+
+#=================================================
+# ENSURE DOWNWARD COMPATIBILITY
+#=================================================
+ynh_script_progression "Ensuring downward compatibility..."
 
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
 #=================================================
 ynh_script_progression "Upgrading source files..."
 
+# Download, check integrity, uncompress and patch the source from manifest.toml
 ynh_setup_source --dest_dir="$install_dir" --full_replace
 
 chown -R "$app:www-data" "$install_dir"
 
 #=================================================
-# REAPPLY SYSTEM CONFIGURATIONS
+# REAPPLY SYSTEM CONFIGURATION
 #=================================================
 ynh_script_progression "Upgrading system configurations related to $app..."
 
